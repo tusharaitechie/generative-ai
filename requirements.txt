@@ -10,3 +10,4 @@ scikit-learn
 nltk
 langserve
 sse_starlette
+bs4
