@@ -30,11 +30,3 @@ unstructured
 pytube
 numexpr
 huggingface_hub
-streamlit
-FASTAPI
-uvicorn
-sse_starlette
-langchain
-langchain-chroma
-langchain_groq
-langchain_huggingface

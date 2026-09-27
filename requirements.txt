@@ -8,3 +8,5 @@ memory_profiler
 streamlit
 scikit-learn
 nltk
+langserve
+sse_starlette
