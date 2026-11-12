@@ -4,7 +4,9 @@ this is a exmaple of multiline comments
 '''
 '''
 Welcome to the
-python course
+python practice session
 
 
 '''
+
+# single line comment
